@@ -395,7 +395,7 @@ var styles = StyleSheet.create({
   content: {
     borderRadius: 3,
     padding: 6,
-    backgroundColor: '#fff',
+    backgroundColor: 'black',
   },
   arrow: {
     position: 'absolute',
